@@ -339,3 +339,23 @@ Etiketler: "POSITIVE", "NEGATIVE", "NEUTRAL".
 | Aya expense 8B | 0.80 | 0.83 | 0.93 | 0.60 |
 | FALCON-H1R-7B | 0.60 | 0.66 | 0.68 | 0.26 |
 | KUMRU 2B | 0.52 | 0.54 | 0.75 | 0.58 |
+
+
+
+## References
+
+I want to present my thanks to all the people involved in the training and sharing of the following models.I hope there will be more open models in the future.
+
+https://huggingface.co/bartowski/nvidia_NVIDIA-Nemotron-Nano-12B-v2-GGUF
+
+https://huggingface.co/CohereLabs/aya-expanse-8b
+
+https://huggingface.co/tiiuae/Falcon-H1R-7B
+
+https://huggingface.co/vngrs-ai/Kumru-2B
+
+https://huggingface.co/lmstudio-community/gemma-3-12b-it-GGUF
+
+https://huggingface.co/Qwen/Qwen3-14B
+
+https://huggingface.co/unsloth/gpt-oss-20b
