@@ -4,7 +4,7 @@ This md contains a comprehensive benchmark report of various Large Language Mode
 
 ## Dataset used
 
-Dataset used in this test is human labeled.
+You can find the details about the dataset used in these experiments in here : https://huggingface.co/datasets/vinnipukh/TachyonTRSA1
 
 ## TRSA 1 Conditions
 
